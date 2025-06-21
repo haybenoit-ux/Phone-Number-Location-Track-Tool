@@ -1,5 +1,5 @@
 # <h1 align="center">🚀 Phone Number Location Track </h1>  
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+<p align="center"><img src="logo.png" width="350px" height="150px" alt="insta logo"></p>
 With the help of this program you get the exact location of a phone number.
 
 ---
