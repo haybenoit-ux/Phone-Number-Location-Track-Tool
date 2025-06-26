@@ -8,7 +8,7 @@ With the help of this program you get the exact location of a phone number.
    <p>The program is easy to use, you only need the phone number.</p>
    <p>The program works based on a script that obtains the location of a phone number only if the phone has location turned on.</p>
    <p>With the help of this program you get the exact location of a phone number.</p> 
----
+----
 
 ## 🟢 GET THE TOOL
 <p align="center"> 
